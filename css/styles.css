@@ -1,0 +1,32 @@
+/*------------------------TAG SELECTORS----------------------------*/
+body{
+  background-color: #EAF6F6;
+}
+hr{
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 5px;
+  border-color: grey;
+}
+h1{
+  color: #66BFBF;
+}
+h3{
+  color:#66BFBF;
+}
+/*-------------------CLASS SELECTORS---------------------*/
+/*can be used for a bunch of elements*/
+
+.first{
+  color: black;
+}
+.second{
+  color:black;
+}
+
+/*------------------------------ID SELECTORS---------------------------*/
+/*can be used only for a particular tag itself,.i.e only for one*/
+
+#heading{
+  color: #66BFBF;
+}
